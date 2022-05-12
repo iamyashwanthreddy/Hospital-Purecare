@@ -1,4 +1,4 @@
-# Hospital-Purecare This is an Hospital website,which is used to book an appointment with the doctor.
+Pure care Hopitals website solves the tedious process of appointment booking for patients, Just by entering the basic details of patient can book an appointment with the doctor seamlessly or patient can call to the hospital to book an appointment instantly, It is a fully responsive website works in every device it was built using HTML, CSS, JAVASCRIPT.
 
 https://blue-coast-0c214a60f.1.azurestaticapps.net
 
@@ -14,5 +14,5 @@ REVIEWS
 ![purecare reviews](https://user-images.githubusercontent.com/50759776/167844732-eae298ef-c31d-401e-b968-864bbc6cffec.png)
 SERVICES
 ![purcare services](https://user-images.githubusercontent.com/50759776/167844737-4049454e-afad-42e3-9a4c-0d91ac60a0e5.png)
-BLOGS
+BLOGS & FOOTER
 ![purecare blogs](https://user-images.githubusercontent.com/50759776/167844726-cf4a7f4f-6467-4fd0-bd27-2b896c58edd5.png)
