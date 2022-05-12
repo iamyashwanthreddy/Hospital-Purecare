@@ -31,4 +31,4 @@ https://blue-coast-0c214a60f.1.azurestaticapps.net
 ![purecare blogs](https://user-images.githubusercontent.com/50759776/167844726-cf4a7f4f-6467-4fd0-bd27-2b896c58edd5.png)
 
 <h2>License</h2>
-This Project is free to use, NO license is required!
+<strong>This Project is free to use, license doesn't required!</strong>
