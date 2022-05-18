@@ -1,4 +1,4 @@
-Pure care Hopitals website solves the tedious process of appointment booking for patients, Just by entering the basic details of patient can book an appointment with the doctor seamlessly or patient can call to the hospital to book an appointment instantly, It is a fully responsive website works in every device it was built using HTML, CSS, JAVASCRIPT.
+Pure care Hopitals website solves the tedious process of appointment booking for patients, Just by entering the basic details of patient can book an appointment with the doctor seamlessly or patient can call to the hospital to book an appointment instantly, Anyone can call in any emergency to the number present in the website.
 
 https://blue-coast-0c214a60f.1.azurestaticapps.net
 
